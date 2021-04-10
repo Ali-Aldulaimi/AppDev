@@ -7,11 +7,14 @@
 //2. data structure definitions 
 //3. function prototypes 
 
-#define MAX 30
-// this comment is added from local 
+
 // we dont use complex data structure in this program 
 void input_scores(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
 void output_results(int[], int[]);
+<<<<<<< HEAD
 // End of score.h 
+=======
+// This is added from remote 
+>>>>>>> 6a67f1473f6eef3bbefc3be768e50f3da9f5b118
