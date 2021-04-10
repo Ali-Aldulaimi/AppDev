@@ -8,7 +8,7 @@
 //3. function prototypes 
 
 #define MAX 30
-
+// this comment is added from local 
 // we dont use complex data structure in this program 
 void input_scores(int[]);
 void evaluation(int[], int[]);
