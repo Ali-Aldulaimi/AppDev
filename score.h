@@ -11,7 +11,7 @@
 // we dont use complex data structure in this program 
 void input_scores(int[]);
 void evaluation(int[], int[]);
-void classification(int[], int[]);
+void classification(int[], int[]); // This comment added from GitHub editor .
 void output_results(int[], int[]);
 <<<<<<< HEAD
 // End of score.h 
